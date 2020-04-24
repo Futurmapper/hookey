@@ -24,3 +24,5 @@
 1032150=Hearts of Iron IV: Man the Guns Wallpaper
 1086480=Hearts of Iron IV: Axis Armor Pack
 1086481=Hearts of Iron IV: Radio Pack
+1158100 = Hearts of Iron IV: La Résistance
+1206030 = Hearts of Iron IV: La Résistance Pre-Order Bonus
