@@ -1,3 +1,4 @@
 [submodule "goldberg_emulator"]
 	path = goldberg_emulator
 	url = https://gitlab.com/Mr_Goldberg/goldberg_emulator.git
+	branch = master
