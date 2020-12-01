@@ -26,3 +26,4 @@
 1086481=Hearts of Iron IV: Radio Pack
 1158100 = Hearts of Iron IV: La Résistance
 1206030 = Hearts of Iron IV: La Résistance Pre-Order Bonus
+1348660=Hearts of Iron IV: Battle for the Bosporus
