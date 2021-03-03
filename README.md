@@ -6,6 +6,12 @@ Works with EU4, HOI4, Stellaris and CK2.
 
 # 1- First, update the dependencies.
 
+# Goldlab emulator uses `protoc` and `clang` to build the libraries:
+# On Ubuntu 19.10 or newer:
+$ sudo apt install protobuf-compiler clang
+# Additionally, you need zsh to run the scripts:
+$ sudo apt install zsh
+
 Note: If you get SSH errors, make sure your gitlab (not github!) keys are in 
 order.
 
@@ -23,7 +29,7 @@ $ ./add "<game name>" "<path to game>"
 where `"<game name>"` is lowercase. E.g.
 
 ```
-$ ./add "hoi4" "$(pwd)/hoi4_local"
+$ ./add "eu4" "$HOME/.steam/root/steamapps/common/Europa Universalis IV"
 ```
 
 Then select the game you added:
