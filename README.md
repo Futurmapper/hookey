@@ -130,3 +130,5 @@ I personally never cared all too much for achievements, so so be it.
 
 This comes with some benefits, of course. Now Steam is not required to run in 
 the background!
+
+Note: Because of it if you want to play in multiplayer you can only play with lan.
