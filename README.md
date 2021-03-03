@@ -29,7 +29,7 @@ $ ./add "<game name>" "<path to game>"
 where `"<game name>"` is lowercase. E.g.
 
 ```
-$ ./add "hoi4" "$(pwd)/hoi4_local"
+$ ./add "eu4" "$HOME/.steam/root/steamapps/common/Europa Universalis IV"
 ```
 
 Then select the game you added:
