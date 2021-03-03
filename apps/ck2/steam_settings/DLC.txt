@@ -65,3 +65,4 @@
 640140 = Crusader Kings II: Jade Dragon
 756660 = Crusader Kings II: Holy Fury
 949870 = Crusader Kings II: Pagan Fury Music Pack
+1167860	= Crusader Kings II: Pagan Fury - Warrior Queen
