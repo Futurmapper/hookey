@@ -6,6 +6,12 @@ Works with EU4, HOI4, Stellaris and CK2.
 
 # 1- First, update the dependencies.
 
+# Goldlab emulator uses `protoc` and `clang` to build the libraries:
+# On Ubuntu 19.10 or newer:
+$ sudo apt install protobuf-compiler clang
+# Additionally, you need zsh to run the scripts:
+$ sudo apt install zsh
+
 Note: If you get SSH errors, make sure your gitlab (not github!) keys are in 
 order.
 
