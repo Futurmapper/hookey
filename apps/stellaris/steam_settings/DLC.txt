@@ -23,3 +23,4 @@
 1140001=Stellaris: Federations
 1140000=Stellaris: Lithoids Species Pack
 1341520=Stellaris: Necroids Species Pack
+1522090=Stellaris: Nemesis
