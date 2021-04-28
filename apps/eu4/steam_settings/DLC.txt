@@ -61,3 +61,4 @@
 1009630 = Europa Universalis IV: Imperator Unit Pack
 1259360 = Europa Universalis IV: Emperor
 1264340 = Europa Universalis IV: Emperor Content Pack
+1416420 = Europa Universalis IV: Leviathan
